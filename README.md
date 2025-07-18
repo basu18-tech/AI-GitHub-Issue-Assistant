@@ -35,6 +35,7 @@ An AI-powered assistant that fetches and summarizes GitHub issues using OpenAIâ€
 pip install -r requirements.txt
 
 *Create a .env file in the root directory:
+
 OPENAI_API_KEY=your_openai_key
 GITHUB_TOKEN=your_github_pat
 
@@ -45,5 +46,8 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm run dev
+
+
+
 
 Crafted with passion and precision by [Basavaraj Huliyapur]
