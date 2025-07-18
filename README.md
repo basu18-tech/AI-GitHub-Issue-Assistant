@@ -46,4 +46,4 @@ cd frontend
 npm install
 npm run dev
 
-
+Crafted with passion and precision by [Basavaraj Huliyapur]
